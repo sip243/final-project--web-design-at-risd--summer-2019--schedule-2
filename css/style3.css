@@ -1,0 +1,17 @@
+.fa, .fas {
+   font-weight: 900;
+   font-size: 50px;
+}
+
+.fa-angle-up:before {
+   content: "\f106";
+   padding-left: 1405px;
+   margin-top: -1450px;
+   padding-top: -950px;
+}
+
+.topbtn {
+   position: fixed;
+   bottom: 76px;
+   margin-left: 1450px;
+}
