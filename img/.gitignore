@@ -1,7 +1,12 @@
 *
 
 !.gitignore
-!*.jpg
-!*.svg
-!*.gif
-!*.png
+!README.md
+!*.html
+
+!audio/*.mp3
+!video/*.mp4
+
+!img/
+!css/
+!js/
