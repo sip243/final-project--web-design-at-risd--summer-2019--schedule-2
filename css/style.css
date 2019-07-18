@@ -138,22 +138,16 @@ a {
    max-width: 100%;
 }
 
-}
 #horror4 img {
-   width: 50vw;
+   width: 100%;
    max-width: 100%;
 }
-#horror5{
-   height: 69vw;
-}
-
 #horror5 >video {
-   height: 69vw;
-   width: auto
+   width: 44vw;
 }
 
 #horror5 div {
-   width: 60vw;
+   width: 25vw;
     margin-left: -1vw;
    display: inline-block;
 }
@@ -163,7 +157,7 @@ a {
 }
 
 #horror5 div video {
-   height: 34.5vw;
+   height: 31.5vw;
    display: block;
 }
 
