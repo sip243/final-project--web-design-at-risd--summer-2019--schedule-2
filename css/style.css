@@ -1,0 +1,125 @@
+h1 {
+   font-size: 60px;
+   padding-top: 200px;
+   padding-left: 5px;
+   padding-bottom: 60px;
+   font-family: 'Abril Fatface', cursive;
+}
+main {
+   line-height: 25px;
+}
+
+#container {
+   font-family: 'Raleway', sans-serif;
+   width: 35%;
+   padding-bottom: 600px;
+   padding-left: 60px;
+   padding-top: 70px;
+}
+
+#container2 img {
+   width: 50%;
+   margin-left: 570px;
+   padding-top: 30px;
+   padding-right: 30px;
+   margin-top: -850px;
+   display: inline-block;
+   float: right;
+}
+
+#container3 img {
+   width: 40%;
+   margin-left: 570px;
+   padding-top: 100px;
+   padding-right: 100px;
+   margin-top: -850px;
+   display: inline-block;
+   float: right;
+}
+
+#container4 img {
+   width: 40%;
+   margin-left: 570px;
+   padding-top: 100px;
+   padding-right: 150px;
+   margin-top: -890px;
+   display: inline-block;
+   float: right;
+}
+
+ul {
+   font-size: 20px;
+   font-family: 'Raleway', sans-serif;
+   font-variant: normal;
+   text-align: center;
+   font-weight: normal;
+   color: black;
+   text-decoration: none;
+   padding-top: 60px;
+}
+
+nav > ul > li {
+   text-align: right;
+   padding-left: 50px;
+   padding-right: 40px;
+   padding-bottom: 20px;
+   display: inline-block;
+}
+
+a {
+   text-decoration: none;
+   color: black;
+}
+
+a:active {
+   color: black;
+   text-decoration: none;
+}
+
+.nav-container{
+   position: fixed;
+   top: 0;
+   width: 100%;
+}
+
+nav {
+   height: 100px;
+   width: 100%;
+   background: #C7EAF4;
+   overflow-y: scroll;
+   margin-left: 30px;
+}
+
+.block1{
+   height: 50px;
+   width: 100%;
+   background: white;
+}
+
+img {
+   padding-top: 200px;
+   height: auto;
+   width: 1400px;
+   padding-right: 0px;
+   padding-left: 31px;
+}
+
+.square {
+   width: 220px;
+   height: 65px;
+   background-color: white;
+   position: absolute;
+   top: 0;
+   left:0;
+   font-family: 'Abril Fatface', cursive;
+   font-size: 50px;
+   padding-left: 30px;
+   padding-top: 40px;
+}
+
+.gallery__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    padding-top: 50px;
+}
